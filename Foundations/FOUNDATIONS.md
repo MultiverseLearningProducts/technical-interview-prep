@@ -29,3 +29,7 @@ These fundamental concepts are universal in programming. They are the building b
 | [Static](#value15) |  |  |  |  |
 | [Class](#value16) |  |  |  |  |
 | [Inheritance](#value17) |  |  |  |  |
+
+## Study Material 
+
+[Exercism](http://exercism.org/) - I recommend completing the excercism course for ***your chosen language***, which will provide practice for all the topics in the ***Fundamental Table of Contents***
