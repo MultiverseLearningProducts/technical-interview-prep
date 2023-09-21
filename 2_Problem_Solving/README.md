@@ -2,6 +2,8 @@
 
 #### Read up on these concepts and watch videos until you are comfortable using them conversationally
 
+[Back to Main](../README.md)
+
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
 |   Time Complexity      |         |         |         |         |         |
