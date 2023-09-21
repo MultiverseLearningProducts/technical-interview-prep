@@ -8,7 +8,7 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 
 | #   | Section             | Description                                   |
 | --- | ------------------- | --------------------------------------------- |
-| 1   | [Foundations](./1_Foundations/README.md) | The first step of DS&A prep is achieving fluency in the language you will interview in.|
+| 1   | [Foundations](./1_Foundations/FOUNDATIONS.md) | The first step of DS&A prep is achieving fluency in the language you will interview in.|
 | 2   | [Problem Solving](./2_Problem_Solving/README.md) | Once you have fluency with the language, you need to understand how to analyze the efficieny / complexity of an algorithm |
 | 3   | [Patterns](./3_Patterns/README.md) | Next we look at common patterns for solving problems. |
 | 4   | [Search and Sort](./4_%20Search_and_Sort/README.md) | Study the topics and try some easy search problems.  Many problems can be solved with any search - the difference is in time complexity. |
