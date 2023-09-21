@@ -3,6 +3,8 @@
 ### Search Problem Sets
 ##### Next, try some easy sort problems. Many problems can be solved with any sort - the difference is in the time complexity.
 
+[Back to Main](../README.md)
+
 <br>
 <br>
 
