@@ -3,7 +3,7 @@
 ## Overview
 These fundamental concepts are universal in programming. They are the building blocks which allow for the tools and strategies needed to solve technical problems in any language. 
 
-[Back to Main](../technical-interview-prep/README.md)
+[Back to Main](../README.md)
 
 ## Your Task
 - Select a Programming Language that is ***Most Relevant*** to the tech stack you aim to use at work or solve technical problems with. 
