@@ -14,3 +14,17 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 | 4   | [Search and Sort](./4_%20Search_and_Sort/SEARCH_AND_SORT.md) | Study the topics and try some easy search problems.  Many problems can be solved with any search - the difference is in time complexity. |
 | 5   | [Data Structures](./5_Data_Structures/DATA_STRUCTURES.md) | Study the topics and try some easy recursion problems.  Many problems can be solved both iteratively and recursively. |
 | 6   | [Interview Practice](./6_Interview_Practice/INTERVIEW_PRACTICE.md) | The final phase of DS&A prep is technical interview practice. Backwards plan your prep from when you would ideally be practicing. |
+
+# Timeline Guidance
+
+| Month Timeline | Foundations | Problem Solving  | Patterns | Search and Sort | Data Structures | Interview Practice |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+|   3 Month Timeline     |   2 Weeks      |   2 Weeks      |     2 Weeks    |   2 Weeks      |  2 Weeks       |   2 Weeks      |
+|   6 Month Timeline    |   4 Weeks      |   4 Weeks      |  4 Weeks      |    4 Weeks     |   4 Weeks      |   4 Weeks      |
+|   9 Month Timeline     |   6 Weeks      |   6 Weeks      |   6 Weeks      |   6 Weeks      |   6 Weeks      |   6 Weeks      |
+|   12 Month Timeline     |   8 Weeks      |    8 Weeks     |    8 Weeks     |   8 Weeks      |   8 Weeks      |    8 Weeks     |
+
+
+# Best Practices
+
+# Strategies For When You're Feeling Stuck
