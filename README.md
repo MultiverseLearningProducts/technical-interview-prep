@@ -90,3 +90,13 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 
 
 # Strategies For When You're Feeling Stuck
+1. Take a Break
+     - Sometimes, the best way to get unstuck is to step away from the problem. Do something unrelated to coding. Often, a fresh perspective can lead to a breakthrough.
+2. Ask for Help
+    - Don't be afraid to seek help from peers, mentors, or online communities. Describe your problem, share your thought process, and ask for guidance. 
+3. Break the Problem Down
+    - Complex problems can be overwhelming. Break them into smaller, manageable sub-problems. Solve each sub-problem individually and then combine the solutions.
+4. Review the Fundamentals
+    - If you're stuck on a problem that requires a specific data structure or algorithm, revisit the fundamentals. Review relevant concepts and examples to refresh your understanding.
+5. Practice Regularly and Learn from your Mistakes
+    - Consistent practice is key to building problem-solving skills. Set aside dedicated time each day to work on coding challenges, even if they're unrelated to your current hurdle.
