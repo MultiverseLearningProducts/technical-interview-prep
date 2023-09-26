@@ -39,4 +39,7 @@ These fundamental concepts are universal in programming. They are the building b
 ## Resources
 
 [W3Schools](https://www.w3schools.com/)
+[Udemy](https://www.udemy.com/)
+[Codecademy](https://www.codecademy.com/)
+[Linkedin Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.664286762_asid.37446315521_crid.651970903094_kw.linkedin%20learning_d.c_tid.kwd-47311766595_n.g_mt.e_geo.9004169&mcid=6841886150127296513&cid=&gclid=CjwKCAjw38SoBhB6EiwA8EQVLu3ZTYlJV48mOFYORHC6KMk575I8bfpu18R3uRNEvWtLBU-ZLJXOjhoCRY4QAvD_BwE&gclsrc=aw.ds)
 
