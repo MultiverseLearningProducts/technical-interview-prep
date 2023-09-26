@@ -14,11 +14,11 @@ These fundamental concepts are universal in programming. They are the building b
 
 | Concept | Definition | Significance | Example | Practice |
 | ----------------- | -------- | -------- | -------- | -------- |
-| [Variables](#value1) |  |  |  |  |
-| [Data Types](#value2) |  |  |  |  |
-| [Loops](#value3) |  |  |  |  |
-| [Conditional](#value4) |  |  |  |  |
-| [Function](#value5) |  |  |  |  |
+| [Variables](https://www.w3schools.com/js/js_variables.asp) |  |  |  |  |
+| [Data Types](https://www.w3schools.com/js/js_datatypes.asp) |  |  |  |  |
+| [Loops](https://www.w3schools.com/js/js_loop_for.asp) |  |  |  |  |
+| [Conditional](https://www.w3schools.com/js/js_if_else.asp) |  |  |  |  |
+| [Function](https://www.w3schools.com/js/js_functions.asp) |  |  |  |  |
 | [Parameter](#value6) |  |  |  |  |
 | [Argument](#value7) |  |  |  |  |
 | [Return](#value8) |  |  |  |  |
@@ -35,3 +35,8 @@ These fundamental concepts are universal in programming. They are the building b
 ## Study Material 
 
 [Exercism](http://exercism.org/) - I recommend completing the excercism course for ***your chosen language***, which will provide practice for all the topics in the ***Fundamental Table of Contents***
+
+## Resources
+
+[W3Schools](https://www.w3schools.com/)
+
