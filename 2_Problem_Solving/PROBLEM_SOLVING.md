@@ -4,6 +4,14 @@
 
 [Back to Main](../README.md)
 
+[Written Resource 1: Top 25 Algorithm Complexity Interview Questions and Answers](https://interviewprep.org/algorithm-complexity-interview-questions/)
+[Written Resource 2: Time and Space Complexity tech interview questions](https://r-fraktas.medium.com/time-and-space-complexity-tech-interview-questions-3cee8ba14)
+[Written Resource 3: Top techniques to approach and solve coding interview questions](https://www.techinterviewhandbook.org/coding-interview-techniques/)
+[Written Resource 4: Time Complexity Of A Computer Program](https://www.interviewbit.com/courses/programming/time-complexity/)
+[Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/loopcmpl/)
+[Interview Bit: Time Complexity Interview Question 1 - Easy]([https://www.interviewbit.com/problems/loopcmpl/](https://www.interviewbit.com/problems/reccmpl1/))
+
+
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
 |   Time Complexity      |         |         |         |         |         |
