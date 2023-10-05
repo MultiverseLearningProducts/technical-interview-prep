@@ -18,7 +18,21 @@
 
 <br>
 
+#### Refer to these Written Resources on Space Complexity in order to reinfornce your leearning and problem solving process
+
+-[Written Resource 1: What does 'Space Complexity' mean?](https://www.geeksforgeeks.org/g-fact-86/)
+
+-[Written Resource 2: Space Complexity in Data Structure](https://www.scaler.com/topics/data-structures/space-complexity-in-data-structure/)
+
+<br>
+
 #### Refer to these Video Resources on Time Complexity in order reinforce your learning and problem solving process
+
+- [Video Resource 1: Space Complexity in Data Strcutures with Simple Snippets on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
+
+<br>
+
+#### Refer to these Video Resources on Space Complexity in order reinforce your learning and problem solving process
 
 - [Video Resource 1: Learn Big O Notation with Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
 
