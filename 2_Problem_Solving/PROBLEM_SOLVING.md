@@ -1,10 +1,12 @@
 # Time Complexity and Problem Solving
 
-#### Read up on these concepts and watch videos until you are comfortable using them conversationally
-
 [Back to Main](../README.md)
 
-##### Refer to these Written Resources on Time Complexity in order reinforce your learning and problem solving process
+### Read up on these concepts and watch videos until you are comfortable using them conversationally
+
+<br> 
+
+#### Refer to these Written Resources on Time Complexity in order reinforce your learning and problem solving process
 
 - [Written Resource 1: Top 25 Algorithm Complexity Interview Questions and Answers](https://interviewprep.org/algorithm-complexity-interview-questions/)
 
@@ -14,9 +16,9 @@
 
 - [Written Resource 4: Time Complexity Of A Computer Program](https://www.interviewbit.com/courses/programming/time-complexity/)
 
-- [Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/loopcmpl/)
+<br>
 
-- [Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/reccmpl1/)
+#### Refer to these Video Resources on Time Complexity in order reinforce your learning and problem solving process
 
 - [Video Resource 1: Learn Big O Notation with Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
 
@@ -24,13 +26,31 @@
 
 - [Video Resource 3: Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk)
 
+<br> 
+
+#### Refer to these Sample Interview Questions to Test your Knowledge
+
+- [Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/loopcmpl/)
+
+- [Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/reccmpl1/)
+
+
+<br>
+<br>
+
 
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
 |   Time Complexity      |         |         |         |         |         |
 |   Space Complexity      |         |         |         |         |         |
 
+<br> 
+<br>
+
+<br>
+
 # Big O Analysis
+
 #### What are the Time Complexity of the actions below?
 
 | Object - New Key-Value Pair | Object - Accessing Key | Object - Removing Key | Array - Push | Array - ForEach | Array - Shift |
