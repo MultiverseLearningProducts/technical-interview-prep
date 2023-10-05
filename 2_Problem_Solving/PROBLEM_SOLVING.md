@@ -18,6 +18,12 @@
 
 - [Interview Bit: Time Complexity Interview Question 1 - Easy](https://www.interviewbit.com/problems/reccmpl1/)
 
+- [Video Resource 1: Learn Big O Notation with Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
+
+- [Video Resource 2: Big O Notation for Coding Interviews with Neetcode](https://www.youtube.com/watch?v=BgLTDT03QtU)
+
+- [Video Resource 3: Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk)
+
 
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
