@@ -106,6 +106,8 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 - **Reflect:**
     - Ensure that you reflect on the error you made, as mistakes tend to be our greatest lessons. 
 
+<br>
+<br>
 
 
 # Strategies For When You're Feeling Stuck
@@ -126,5 +128,9 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 # Resources: 
 
 [Leetcode](https://leetcode.com/)
+<br>
+
 [Hackerrank](https://www.hackerrank.com/)
+<br> 
+
 [Coding Bat](https://codingbat.com/)
