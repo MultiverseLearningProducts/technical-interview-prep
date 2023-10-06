@@ -1,6 +1,6 @@
-# Time Complexity and Problem Solving
-
 [Back to Main](../README.md)
+
+# Time Complexity and Problem Solving
 
 ### Read up on these concepts and watch videos until you are comfortable using them conversationally
 
@@ -34,8 +34,6 @@
 
 #### Refer to these Video Resources on Space Complexity in order reinforce your learning and problem solving process
 
-- [Video Resource 1: Learn Big O Notation with Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
-
 - [Video Resource 2: Big O Notation for Coding Interviews with Neetcode](https://www.youtube.com/watch?v=BgLTDT03QtU)
 
 - [Video Resource 3: Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk)
@@ -65,6 +63,8 @@
 
 # Big O Analysis
 
+- [Video Resource 1: Learn Big O Notation with Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=itn09C2ZB9Y)
+
 #### What are the Time Complexity of the actions below?
 
 | Object - New Key-Value Pair | Object - Accessing Key | Object - Removing Key | Array - Push | Array - ForEach | Array - Shift |
@@ -89,4 +89,8 @@
 
 ## Study Material 
 
-[SEAT Method - Linkedin Article](https://www.linkedin.com/pulse/use-seat-structure-your-next-interview-i-bet-you-crack-p-k#:~:text=SEAT%20is%20an%20acronym%20that,and%20how%20you%20handled%20them.) - The following will direct you to a Linkedin Article regarding the SEAT Interview Method 
+<h3>Here are some resources on the SEAT Method</h3>
+<a href="https://www.linkedin.com/pulse/use-seat-structure-your-next-interview-i-bet-you-crack-p-k#:~:text=SEAT%20is%20an%20acronym%20that,and%20how%20you%20handled%20them." target="_blank">SEAT Method - Linkedin Article </a>
+
+[SEAT Method - "Tell me about Yourself" by CareerVidz](https://www.youtube.com/watch?v=IZvwSnPT1T0)
+
