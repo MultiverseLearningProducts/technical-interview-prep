@@ -1,0 +1,13 @@
+- Use the SEAT Method to practice learning and describing your approach to solving the following problem
+- Analyze the Time Complexity
+- Analyze the Space Complexity
+
+PROBLEM STATEMENT: 
+  1. Given two numbers, write a function that will return their sum. 
+    - Example: 3, 4 -> 7
+  2. Given an array/list of integers, write a function that will return the sum of the cumulative values in the array/list
+    - Example: [1, 2, 3, 4, 5] -> 15
+  3. Given an array/list of integers and a target value/number, write a function that will return in an array/list the indices of the values in that array/list that add up to that target value
+    - Example: [1, 2, 3, 4, 5], 6 => [1, 3]
+
+
