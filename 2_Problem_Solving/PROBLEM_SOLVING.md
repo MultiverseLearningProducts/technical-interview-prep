@@ -79,6 +79,10 @@
 
 #### I recommnend the SEAT method: Summarize the problem, develop Examples of inputs and outputs, Approach with the problem by breaking it down, and Test your approach to validate and optimize
 
+Refer to these example problem prompts in order to get your started:
+
+[Example Problem Prompts](./Problem_Solving_1.txt)
+
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
 | Summarize      |         |         |         |         |         |
