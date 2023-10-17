@@ -23,6 +23,17 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 
 # Timeline Guidance
 
+This timeline is a general guideline. Learning is a personal journey, and your progress may vary based on your prior knowledge, dedication, and individual circumstances. Use it as a flexible reference rather than a strict schedule.
+
+Before you start, define your learning objectives for each subject. What level of proficiency or understanding are you aiming for? Having clear goals will help you stay focused.
+
+Don't hesitate to adapt the timeline to your pace. If you find a subject particularly challenging or easy, adjust the time allocation accordingly.
+
+
+<h3> The following timeline evenly allocates time over 3, 6, 9, and 12 months and can be used as a starting point to decipher where you feel you may need to distribute your time better based on your individual timeline and progress. </h3>
+
+<br> 
+
 | Timeline | Foundations | Problem Solving  | Patterns | Search and Sort | Data Structures | Interview Practice |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 |   3 Month    |   2 Weeks      |   2 Weeks      |     2 Weeks    |   2 Weeks      |  2 Weeks       |   2 Weeks      |
