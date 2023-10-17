@@ -52,13 +52,17 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 
 # Resources: 
 
-[Leetcode](https://leetcode.com/)
+
+<p>Use the following resource to "visiualize" your code step by step. This can be particularly useful when debugging or looking for optimization</p>
+
+- [Python Visual Tutor](https://pythontutor.com/visualize.html#mode=edit)
 <br>
 
-[Python Visual Tutor](https://pythontutor.com/visualize.html#mode=edit)
+<p> Use the following Resource(s) to Practice Problem Solving in your chosen Langauge</p>
+
+- [Hackerrank](https://www.hackerrank.com/)
+
+- [Leetcode](https://leetcode.com/)
+
+- [Coding Bat](https://codingbat.com/)
 <br>
-
-[Hackerrank](https://www.hackerrank.com/)
-<br> 
-
-[Coding Bat](https://codingbat.com/)
