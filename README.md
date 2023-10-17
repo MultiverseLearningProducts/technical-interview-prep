@@ -33,83 +33,6 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 <br>
 <br>
 
-# Best Practices
-<br>
-
-### Build a Strong Foundation:
-<br>
-
-- **Start with the Basics:** 
-<br>
-    - Ensure you have a solid understanding of programming fundamentals:
-        - Variables
-        - Loops
-        - Conditionals
-        - Functions
-<br>
-<br>
-
-- **Data Structures and Algorithms:**
-    - Invest time in learning and mastering essential Data Structures such as:
-        - Arrays
-        - Linked Lists
-        - Trees
-        - Graphs 
-    - Invest time in learning and mastering essential algorithms such as:
-        - Sorting
-        - Searching
-        - Dynamic programming
-    <br>
-    <br>
-
-***Work on also understanding their time and space complexities***
-
-<br>
-<br>
-
-### Practice Regularly:
-<br>
-
-- **Be Consistent:** 
-    - Dedicate regular, consistent time to practice.
-    - Daily practice is often more effective than sporadic cramming.
-
-- **Table of Content:**
-    - Use the Table of Content above to navigate to a resource that best fits your needs.
-
-- **Leverage resources:** 
-    - LeetCode
-    - HackerRank
-    - Code Wars
-
-    <br>
-    <br>
-    
- ***Solve a variety of coding challenges on platforms like LeetCode, HackerRank, or Codewars. Focus on different difficulty levels to build confidence***
-
- <br>
- <br>
-
-### Learn from Mistakes:
-
-<br>
-
-- **Debugging Skills:**
-    - Use your mistakes as an opportunity to improve your debugging skills.
-    - When you encounter errors, don't just look for solutions; understand why they occurred 
-
-- **Review Incorrect Solutions:**
-    - After attempting a problem, review your solution thoroughly, even if it's incorrect. - Dry run your code on paper
-- **Use Python Visual Tutor:**
-    - Copy and Paste your code and [visualize your code](https://pythontutor.com/visualize.html#mode=edit).
-    - Step by Step, determine where your solution went wrong and how you can resolve it. 
-- **Reflect:**
-    - Ensure that you reflect on the error you made, as mistakes tend to be our greatest lessons. 
-
-<br>
-<br>
-
-
 # Strategies For When You're Feeling Stuck
 
 <br>
@@ -125,9 +48,14 @@ Welcome to the Technical Interview Prep Guide! This guide is designed to assist 
 5. **Practice Regularly and Learn from your Mistakes**
     - Consistent practice is key to building problem-solving skills. Set aside dedicated time each day to work on coding challenges, even if they're unrelated to your current hurdle.
 
+<br> 
+
 # Resources: 
 
 [Leetcode](https://leetcode.com/)
+<br>
+
+[Python Visual Tutor](https://pythontutor.com/visualize.html#mode=edit)
 <br>
 
 [Hackerrank](https://www.hackerrank.com/)
