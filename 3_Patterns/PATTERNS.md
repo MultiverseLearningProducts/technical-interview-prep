@@ -1,6 +1,6 @@
-# Part 3: Common Problem Solving Patterns
-
 [Back to Main](../README.md)
+
+# Part 3: Common Problem Solving Patterns
 
 ## Study the following topics and try solving some *easy* level coding challenges. As you do take note of the following: 
 - Concept
