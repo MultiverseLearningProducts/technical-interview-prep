@@ -95,7 +95,7 @@ It suggests to follow these steps when problem solving:
 
 <br> 
 
-Here are some resources provided by Multiverse on the [SEAT Method - Algorithmic Problem Solving](https://www.youtube.com/watch?v=IZvwSnPT1T0](https://docs.google.com/presentation/d/e/2PACX-1vQlHVQZCM_tZvH3_xqZJv1oggRbhhrb2PpjkGl2Xl8_SwkkAjPLqq_Bl9MJlrWoZ_TO9iE9jgetUfvZ/pub?start=false&loop=false&delayms=3000)https://docs.google.com/presentation/d/e/2PACX-1vQlHVQZCM_tZvH3_xqZJv1oggRbhhrb2PpjkGl2Xl8_SwkkAjPLqq_Bl9MJlrWoZ_TO9iE9jgetUfvZ/pub?start=false&loop=false&delayms=3000)
+Here are some resources provided by Multiverse on the [SEAT Method - Algorithmic Problem Solving](https://docs.google.com/presentation/d/e/2PACX-1vRawYLcEenrOEwVd-lXXeQot2AFdDTgyW9Ewl8uyMHXoyQHM_jQNZ7fVgrtHz4tSrHVRKQU11HexpVU/pub?start=false&loop=false&delayms=3000)
 
 It suggests to follow these steps when problem solving: 
 1. **S**ummarize the Problem
