@@ -13,7 +13,7 @@
 
 | Concept | Definition | Significance | Example | Practice | Resouces |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-|   Frequency Counter      |         |         |         |     [Leetcode - Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/description/)    |     [Unique Occurence - Solution in Python](https://www.youtube.com/watch?v=4VGtoW2e8L4&t=0s)    |
+|   Frequency Counter      |         |         |         |     [Leetcode - Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/description/)    |     1. [VIDEO: Unique Occurence - Solution in Python](https://www.youtube.com/watch?v=4VGtoW2e8L4&t=0s) <br> <br> 2. [WRITTEN: Algomonster - Unique Occurence Solution Approach](https://algo.monster/liteproblems/1207)   |
 |    Multiple Pointers     |         |         |         |    [Leetcode - 2 Pointer](https://leetcode.com/tag/two-pointers/)     |         |
 |    Sliding Window     |         |         |         |    [Leetcode - Sliding Window](https://leetcode.com/tag/sliding-window/)     |         |
 |    Divide and Conquer     |         |         |         |    [Leetcode - Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)     |         |
@@ -29,3 +29,4 @@
 |       Iteration  |         |         |         |         |         |
 |    Recursion     |         |         |         |         | [Leetcode - Recursion Practice](https://leetcode.com/tag/recursion/)        |
 |    Factorial     |         |         |         |         |  [Leetcode - Factorial Digit Sum](https://projecteuler.net/problem=20)       |
+
