@@ -13,7 +13,7 @@
 
 | Concept | Definition | Significance | Example | Practice | Resouces |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-|   Frequency Counter      |         |         |         |         |         |
+|   Frequency Counter      |         |         |         |     [Leetcode - Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/description/)    |         |
 |    Multiple Pointers     |         |         |         |    [Leetcode - 2 Pointer](https://leetcode.com/tag/two-pointers/)     |         |
 |    Sliding Window     |         |         |         |    [Leetcode - Sliding Window](https://leetcode.com/tag/sliding-window/)     |         |
 |    Divide and Conquer     |         |         |         |    [Leetcode - Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)     |         |
