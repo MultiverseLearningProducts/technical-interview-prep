@@ -46,11 +46,15 @@
 # Problem Solving
 #### How you approach problems is as important as your fluency with the language
 
-#### I recommnend the SEAT method: Summarize the problem, develop Examples of inputs and outputs, Approach with the problem by breaking it down, and Test your approach to validate and optimize
+#### I recommnend the SEAT method: Summarize the problem, develop Examples of inputs and outputs, Approach with the problem by breaking it down, and Test your approach to validate and optimize. In addition, it's worth exploring any approach and framework that aligns best with acheiving your goal.
 
 Refer to these example problem prompts in order to get your started:
 
 [Example Problem Prompts](./Problem_Solving_1.txt)
+
+<br>
+
+### SEAT METHOD - Algorithmic Problem Solving
 
 | Concept | Definition | Significance | Example | Practice | Resources |
 | :-------: | ------- | ------- | ------- | ------- | ------- |
@@ -59,11 +63,48 @@ Refer to these example problem prompts in order to get your started:
 |    Approach    |         |         |         |         |         |
 |     Test    |         |         |         |         |         |
 
+<br> 
+<br>
+
+### Alternative Algorithmic Problem Solving Approaches: 
+
+#### FreeCodeCamp: 
+
+| Concept | Definition | Significance | Example | Practice | Resources |
+| :-------: | ------- | ------- | ------- | ------- | ------- |
+| Simplify the Problem      |         |         |         |         |         |
+| Break the Problem Down     |         |         |         |         |         |
+|    Identify Patterns and Relationships    |         |         |         |         |         |
+|     Create a Plan    |         |         |         |         |         |
+|    Implement the Plan    |         |         |         |         |         |
+|     Test the Solution   |         |         |         |         |         |
+
+<br> 
+<br> 
 
 ## Study Material 
 
-<h3>Here are some resources on the SEAT Method</h3>
-<a href="https://www.linkedin.com/pulse/use-seat-structure-your-next-interview-i-bet-you-crack-p-k#:~:text=SEAT%20is%20an%20acronym%20that,and%20how%20you%20handled%20them." target="_blank">SEAT Method - Linkedin Article </a>
+Consider different approaches to problem solving such as the ones mentioned in this article from FreeCodeCamp regarding [preparing for the technical interview](https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/). 
 
-[SEAT Method - "Tell me about Yourself" by CareerVidz](https://www.youtube.com/watch?v=IZvwSnPT1T0)
+It suggests to follow these steps when problem solving: 
+ 1. Simplify the problem
+ 2. Break the problem down into smaller parts
+ 3. Identify patterns and relationships
+ 4. Create a plan
+ 5. Implement the plan
+ 6. Test the solution
+
+<br> 
+
+Here are some resources provided by Multiverse on the [SEAT Method - Algorithmic Problem Solving](https://www.youtube.com/watch?v=IZvwSnPT1T0](https://docs.google.com/presentation/d/e/2PACX-1vQlHVQZCM_tZvH3_xqZJv1oggRbhhrb2PpjkGl2Xl8_SwkkAjPLqq_Bl9MJlrWoZ_TO9iE9jgetUfvZ/pub?start=false&loop=false&delayms=3000)https://docs.google.com/presentation/d/e/2PACX-1vQlHVQZCM_tZvH3_xqZJv1oggRbhhrb2PpjkGl2Xl8_SwkkAjPLqq_Bl9MJlrWoZ_TO9iE9jgetUfvZ/pub?start=false&loop=false&delayms=3000)
+
+It suggests to follow these steps when problem solving: 
+1. **S**ummarize the Problem
+2. (Create) **E**xamples of the Problem of your own
+3. (Create an) **A**pproach to Solving these Examples
+4. **T**est the approach
+
+
+
+
 
